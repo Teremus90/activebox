@@ -265,3 +265,28 @@ p {
     font-size: 14px;
     color: #fff;
 }
+
+/* Team */
+
+.team {
+    margin: 100px 0;
+}
+
+.team__inner {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.team__item {
+    width: 25%;
+}
+
+.team__photo {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.team__name {
+    
+}
